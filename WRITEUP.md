@@ -21,7 +21,7 @@ Following is the Comparision between App Services adn Virtual Machines
 | Simpler than that of Virtual Machines | Increased Complexity compared to App Service |
 | Provides no control over In-Built Infrastructure | Provides control over In-Built Infrastructure |
 | High availability with SLA-backed uptime of 99.95 % | High availability with SLA-backed uptime of 99.5 % |
-| Continuous Deployment (CI/CD) workflow backed up with [AzureRepos, GitHub, BitBucket] |  |
+| Continuous Deployment (CI/CD) workflow | - |
 | In-Built Infrastructure maintainance & Scaling | Can be scaled (from 1 to 1000 VM's) |
 
 
